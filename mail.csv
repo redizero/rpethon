@@ -1,0 +1,224 @@
+Country,Carrier,Email-to-SMS
+Mauritius,Emtel,number@emtelworld.net
+South Africa,MTN,number@sms.co.za
+South Africa,Vodacom,number@voda.co.za
+China,China Mobile,number@139.com
+Hong Kong,Accessyou,number@messaging.accessyou.com
+Hong Kong,CSL,number@mgw.mmsc1.hkcsl.com
+Nepal,Ncell(Previously Mero Mobile)[14],977number@sms.ncell.com.np
+Singapore,M1,number@m1.com.sg
+Singapore,Starhub Enterprise Messaging Solution,number@starhub-enterprisemessaging.com
+South Korea,Helio,number@myhelio.com
+Sri Lanka,Mobitel,number@sms.mobitel.lk
+Austria,Api4SMS,number@members.api4sms.net
+Austria,Firmensms,0043number@subdomain.firmensms.at
+Austria,T-Mobile,43676number@sms.t-mobile.at
+Bulgaria,Globul,35989number@sms.globul.bg
+Bulgaria,Mobiltel,35988number@sms.mtel.net
+Croatia,T-Mobile,385number@sms.t-mobile.hr
+Czech Republic,Vodafone,alias@vodafonemail.cz
+France,Bouygues Telecom (company),number@mms.bouyguestelecom.fr
+France,SFR,number@sfr.fr
+Germany,E-Plus,0number@smsmail.eplus.de
+Germany,O2,0number@o2online.de
+Germany,T-Mobile,number@t-mobile-sms.de
+Germany,Vodafone,0number@vodafone-sms.de
+Iceland,OgVodafone,number@sms.is
+Iceland,Sminn,number@box.is
+Ireland,Meteor,number@sms.mymeteor.ie
+Italy,TIM,0number@timnet.com
+Italy,Vodafone,3**number@sms.vodafone.it
+Netherlands,Orange,0number@sms.orange.nl
+Netherlands,T-Mobile,31number@gin.nl
+Norway,Sendega,number@sendega.com
+Norway,TeletopiaSMS,number@sms.teletopiasms.no
+Poland,Plus,+48number@text.plusgsm.pl
+Poland,Plus,+number@text.plusgsm.pl
+Poland,Polkomtel,+48number@text.plusgsm.pl
+Spain,Altiria,info@altiria.com
+Spain,Esendex,number@esendex.net
+Spain,Movistar,0number@movistar.net
+Spain,Vodafone,0number@vodafone.es
+Spain,Movistar,number@movimensaje.com.ar
+Sweden,Tele2,0number@sms.tele2.se
+Switzerland,Box Internet ServicesSMS Gateway,number@sms.boxis.net
+Switzerland,Sunrise Communications,number@gsm.sunrise.ch
+United Kingdom,aql,number@text.aql.com
+United Kingdom,CM Telecom,number@mail-sms.com
+United Kingdom,Connection Software (CSoft),number@itsarrived.net
+United Kingdom,Esendex,number@echoemail.net
+United Kingdom,HSL Mobile,number@sms.haysystems.com
+United Kingdom,Kapow SMS Gateway,number@kapow.co.uk
+United Kingdom,Mediaburst,number@sms.mediaburst.co.uk
+United Kingdom,My-Cool-SMS,number@my-cool-sms.com
+United Kingdom,Orange,number@orange.net
+United Kingdom,Txtlocal,number@txtlocal.co.uk
+United Kingdom,Univil Corporation,number@viawebsms.com
+United Kingdom,Virgin Mobile,number@vxtras.com
+India,Andhra Pradesh AirTel,91number@airtelap.com
+India,Andhra Pradesh Idea Cellular,number@ideacellular.net
+India,Chennai RPG Cellular,9841number@rpgmail.net
+India,Chennai Skycell / Airtel,919840number@airtelchennai.com
+India,Delhi Airtel,919810number@airtelmail.com
+India,Goa Airtel,919890number@airtelmail.com
+India,Goa Idea Cellular,number@ideacellular.net
+India,Gujarat Airtel,919898number@airtelmail.com
+India,Gujarat Celforce / Fascel,9825number@celforce.com
+India,Gujarat Idea Cellular,number@ideacellular.net
+India,Haryana Airtel,919896number@airtelmail.com
+India,Haryana Escotel,9812number@escotelmobile.com
+India,Himachai Pradesh Airtel,919816number@airtelmail.com
+India,Karnataka Airtel,919845number@airtelkk.com
+India,Airtel,number@airtelkk.com
+India,Kerala Airtel,919895number@airtelkerala.com
+India,Kerala Escotel,9847number@escotelmobile.com
+India,Kolkata Airtel,919831number@airtelkol.com
+India,Madhya Pradesh Airtel,919893number@airtelmail.com
+India,Maharashtra Airtel,919890number@airtelmail.com
+India,Maharashtra Idea Cellular,number@ideacellular.net
+India,Mumbai Airtel,919892number@airtelmail.com
+India,Punjab Airtel,919815number@airtelmail.com
+India,Tamil Nadu Aircel,9842number@airsms.com
+India,Tamil Nadu Airtel,919894number@airtelmobile.com
+India,Uttar Pradesh West Escotel,9837number@escotelmobile.com
+India,Aircel,number@aircel.co.in
+India,Airtel,number@airtelap.com
+India,B2Bsms B2B SMS,info@b2bsms.co.in
+India,B2Bsms B2B SMS,info@b2bsms.co.in or
+Israel,Spikko,number@SpikkoSMS.com
+Canada,Aliant,number@sms.wirefree.informe.ca
+Canada,Bell Mobility & Solo Mobile,number@txt.bell.ca
+Canada,Bell Mobility & Solo Mobile,number@txt.bellmobility.ca
+Canada,Fido,number@sms.fido.ca
+Canada,Koodo Mobile,number@msg.telus.com
+Canada,Lynx Mobility,number@sms.lynxmobility.com
+Canada,MTS Mobility,number@text.mtsmobility.com
+Canada,PC Telecom,number@mobiletxt.ca
+Canada,SaskTel,number@pcs.sasktelmobility.com
+Canada,SaskTel,number@sms.sasktel.com
+Canada,Virgin Mobile,number@vmobile.ca
+Canada,Westnet,number@t.westnet.ca
+Canada,Wind Mobile,number@txt.windmobile.ca
+Canada,Rogers Wireless,number@pcs.rogers.com
+Canada,Rogers Wireless,number@sms.rogers.com
+Canada,Telus Mobility,number@msg.telus.com
+Costa Rica,ICE,number@sms.ice.cr
+Mexico,Nextel,number@msgnextel.com.mx
+Mexico,Telcel,number@itelcel.com
+Nicaragua,Claro,number@ideasclaro-ca.com
+Panama,Masmovil,number@cwmovil.com
+Puerto Rico,Claro,number@vtexto.com
+United States,General Communications Inc.,number@mobile.gci.net
+United States,Bluesky Communications,number@psms.bluesky.as
+United States,Golden State Cellular,number@gscsms.com
+United States,Greatcall,number@vtxt.com
+United States,Cincinnati Bell,number@gocbw.com
+United States,Hawaiian Telcom Wireless,number@hawaii.sprintpcs.com
+United States,i wireless (T-Mobile),number.iws@iwspcs.net
+United States,Pocket Wireless,number@sms.pocket.com
+United States,XIT Communications,number@sms.xit.net
+United States,nTelos,number@pcs.ntelos.com
+United States,Rogers Wireless,number@pcs.rogers.com
+United States,Rogers Wireless,number@sms.rogers.com
+United States,Telus Mobility,number@msg.telus.com
+United States,Helio,number@myhelio.com
+United States,Airfire Mobile,number@sms.airfiremobile.com
+United States,Alaska Communications,number@msg.acsalaska.com
+United States,Alltel (Allied Wireless),number@sms.alltelwireless.com
+United States,Ameritech,number@paging.acswireless.com
+United States,Assurance Wireless,number@vmobl.com
+United States,AT&T Enterprise Paging,number@page.att.net
+United States,AT&T Global Smart Messaging Suite,number@sms.smartmessagingsuite.com
+United States,AT&T grandfathered customers,number@mmode.com
+United States,AT&T Mobility,number@txt.att.net
+United States,AT&T Mobility (formerly Cingular),number@cingularme.com
+United States,AT&T Mobility (formerly Cingular),number@mobile.mycingular.com
+United States,BellSouth,number@bellsouth.cl
+United States,Bluegrass Cellular,number@sms.bluecell.com
+United States,Boost Mobile,number@sms.myboostmobile.com
+United States,C Beyond (All Page Wireless),number@cbeyond.sprintpcs.com
+United States,C Spire Wireless,number@cspire1.com
+United States,Cellcom,number@cellcom.quiktxt.com
+United States,Cellular South,number@csouth1.com
+United States,Chariton Valley Wireless,number@sms.cvalley.net
+United States,Chat Mobility,number@mail.msgsender.com
+United States,Cincinnati Bell,number@mms.gocbw.com
+United States,Cingular (Postpaid),number@cingular.com
+United States,Cingular (Postpaid),number@mobile.mycingular.com
+United States,Cleartalk,number@sms.cleartalk.us
+United States,Consumer Cellular,number@cingularme.com
+United States,Consumer Cellular,number@mailmymobile.net
+United States,Cricket,number@sms.mycricket.com
+United States,Cricket,number@sms.cricketwireless.net
+United States,DTC,number@sms.advantagecell.net
+United States,Edge Wireless,number@sms.edgewireless.com
+United States,Element Mobile,number@SMS.elementmobile.net
+United States,Esendex,number@echoemail.net
+United States,i-wireless (Sprint PCS),number@iwirelesshometext.com
+United States,Kajeet,number@mobile.kajeet.net
+United States,LongLines,number@text.longlines.com
+United States,Mellon Mobile,number@mellonmobile.ga
+United States,MetroPCS,number@mymetropcs.com
+United States,Nextech,number@sms.ntwls.net
+United States,Page Plus Cellular(Verizon MVNO),number@vtext.com
+United States,Pioneer Cellular,nine-digit-number@zsend.com
+United States,Qwest Wireless,number@qwestmp.com
+United States,Red Pocket Mobile(AT&T MVNO),number@txt.att.net
+United States,Simple Mobile,number@smtext.com
+United States,Solavei,XXXYYYZZZZ@tmomail.net
+United States,South Central Communications,number@rinasms.com
+United States,Southernlinc,number@page.southernlinc.com
+United States,Sprint,number@messaging.sprintpcs.com
+United States,Sprint,number@pm.sprint.com
+United States,Straight Talk,number@messaging.sprintpcs.com
+United States,Straight Talk,number@txt.att.net
+United States,Straight Talk,number@mmst5.tracfone.com
+United States,Straight Talk,number@vtext.com
+United States,Syringa Wireless,number@rinasms.com
+United States,T-Mobile,number@tmomail.net
+United States,Teleflip,number@teleflip.com
+United States,Ting,number@message.ting.com
+United States,Unicel,number@utext.com
+United States,Union Wireless,number@union-tel.com
+United States,US Cellular,number@email.uscc.net
+United States,USA Mobility,number@usamobility.net
+United States,Verizon Wireless,number@vtext.com
+United States,Verizon Wireless (Alltel),number@text.wireless.alltel.com
+United States,Verizon Wireless (Alltel),number@text.wireless.alltel.com
+United States,Verizon Wireless (Alltel),number@vtext.com
+United States,Viaero,number@viaerosms.com
+United States,Virgin Mobile,number@vmobl.com
+United States,Voyager Mobile,number@text.voyagermobile.com
+United States,West Central Wireless,number@sms.wcc.net
+United States,Centennial Wireless,number@cwemail.com
+United States,TracFone (prepaid),number@mmst5.tracfone.com
+United States,TracFone (prepaid),number@txt.att.net
+United States,TracFone (prepaid),number@email.uscc.net
+United States,TracFone (prepaid),number@message.alltel.com
+United States,TracFone (prepaid),number@tmomail.net
+United States,TracFone (prepaid),number@vtext.com
+Australia,All Australian Mobile Networks,number@sms.itcompany.com.au
+Australia,Esendex,number@echoemail.net
+Australia,SMS Broadcast,number@send.smsbroadcast.com.au
+Australia,SMS Central,number@sms.smscentral.com.au
+Australia,SMS Global,number@email.smsglobal.com
+Australia,SMSPUP,number@smspup.com
+Australia,T-Mobile (Optus Zoo),0number@optusmobile.com.au
+Australia,Telstra Integrated Messaging (powered by Soprano),sms@tim.telstra.com
+Australia,UTBox,number@sms.utbox.net
+New Zealand,Spark New Zealand,number@etxt.co.nz
+New Zealand,Vodafone,number@mtxt.co.nz
+Russia,Beeline (Russia),number@sms.beemail.ru
+Argentina,CTI (Now Claro),number@sms.ctimovil.com.ar
+Argentina,Movistar,number@sms.movistar.net.ar
+Argentina,Nextel,TwoWay.11number@nextel.net.ar
+Argentina,Personal,number@alertas.personal.com.ar
+Aruba,Setar Mobile email (Aruba),297number@mas.aw
+Brazil,Claro,number@clarotorpedo.com.br
+Brazil,Vivo,number@torpedoemail.com.br
+Colombia,Claro,number@iclaro.com.co
+Colombia,Movistar,number@movistar.com.co
+Colombia,Tigo (Formerly Ola),number@sms.tigo.com.co
+Dominica,Digicel (Dominica),number@digitextdm.com
+Guyana,Guyana Telephone &Telegraph,number@sms.cellinkgy.com
+Uruguay,Movistar,95number@sms.movistar.com.uy
