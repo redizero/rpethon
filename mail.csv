@@ -17,7 +17,7 @@ Bulgaria,Globul,35989number@sms.globul.bg
 Bulgaria,Mobiltel,35988number@sms.mtel.net
 Croatia,T-Mobile,385number@sms.t-mobile.hr
 Czech Republic,Vodafone,alias@vodafonemail.cz
-France,Bouygues Telecom (company),number@mms.bouyguestelecom.fr
+France,Bouygues Telecom,number@mms.bouyguestelecom.fr
 France,SFR,number@sfr.fr
 Germany,E-Plus,0number@smsmail.eplus.de
 Germany,O2,0number@o2online.de
@@ -192,7 +192,7 @@ United States,Voyager Mobile,number@text.voyagermobile.com
 United States,West Central Wireless,number@sms.wcc.net
 United States,Centennial Wireless,number@cwemail.com
 United States,TracFone (prepaid),number@mmst5.tracfone.com
-United States,TracFone (prepaid),number@txt.att.net
+United States,TracFone,number@txt.att.net
 United States,TracFone (prepaid),number@email.uscc.net
 United States,TracFone (prepaid),number@message.alltel.com
 United States,TracFone (prepaid),number@tmomail.net
@@ -203,22 +203,22 @@ Australia,SMS Broadcast,number@send.smsbroadcast.com.au
 Australia,SMS Central,number@sms.smscentral.com.au
 Australia,SMS Global,number@email.smsglobal.com
 Australia,SMSPUP,number@smspup.com
-Australia,T-Mobile (Optus Zoo),0number@optusmobile.com.au
+Australia,T-Mobile / Optus,0number@optusmobile.com.au
 Australia,Telstra Integrated Messaging (powered by Soprano),sms@tim.telstra.com
 Australia,UTBox,number@sms.utbox.net
 New Zealand,Spark New Zealand,number@etxt.co.nz
 New Zealand,Vodafone,number@mtxt.co.nz
-Russia,Beeline (Russia),number@sms.beemail.ru
-Argentina,CTI (Now Claro),number@sms.ctimovil.com.ar
+Russia,Beeline,number@sms.beemail.ru
+Argentina,CTI / Claro,number@sms.ctimovil.com.ar
 Argentina,Movistar,number@sms.movistar.net.ar
 Argentina,Nextel,TwoWay.11number@nextel.net.ar
 Argentina,Personal,number@alertas.personal.com.ar
-Aruba,Setar Mobile email (Aruba),297number@mas.aw
+Aruba,Setar / Aruba,297number@mas.aw
 Brazil,Claro,number@clarotorpedo.com.br
 Brazil,Vivo,number@torpedoemail.com.br
 Colombia,Claro,number@iclaro.com.co
 Colombia,Movistar,number@movistar.com.co
-Colombia,Tigo (Formerly Ola),number@sms.tigo.com.co
-Dominica,Digicel (Dominica),number@digitextdm.com
+Colombia,Tigo,number@sms.tigo.com.co
+Dominica,Digicel,number@digitextdm.com
 Guyana,Guyana Telephone &Telegraph,number@sms.cellinkgy.com
 Uruguay,Movistar,95number@sms.movistar.com.uy
